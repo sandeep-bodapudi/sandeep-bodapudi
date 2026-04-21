@@ -1,7 +1,7 @@
 # Hey, I'm Sandeep Kumar Bodapudi 👋
 
 Full-stack web developer from Kakinada, Andhra Pradesh.
-CS graduate with hands-on experience building and shipping real products — 
+CS graduate with hands-on experience building and shipping real products —
 not just tutorial projects.
 
 ---
@@ -18,13 +18,13 @@ not just tutorial projects.
 
 ## 💼 What I've Built
 
-| Project | Stack | What it does |
-|---|---|---|
-| 🚗 Vehicle Management System | MERN | Fleet tracking, driver assignment, maintenance logs |
-| 🎟️ Movie Ticket Booking | MERN | Seat selection, JWT auth, booking state management |
-| 🛒 Vyasthra Collections | PHP, MySQL, JS | Full e-commerce site — live in production |
-| 🐛 Project Issue Tracker | MERN | Ticket management with role-based access |
-| 💸 DailyMark Finance Tracker | JS, IndexedDB, PWA | Offline-first personal expense logger |
+| Project | Stack | Live | What it does |
+|---|---|---|---|
+| 💸 DailyMark Finance Tracker | JS, IndexedDB, PWA | [Live ↗](https://dailymark01.netlify.app/index.html) | Offline-first personal expense logger |
+| 🚗 Vehicle Management System | MERN | — | Fleet tracking, driver assignment, maintenance logs |
+| 🎟️ Movie Ticket Booking | MERN | — | Seat selection, JWT auth, booking state management |
+| 🛒 Vyasthra Collections | PHP, MySQL, JS | — | Full e-commerce site — live in production |
+| 🐛 Project Issue Tracker | MERN | — | Ticket management with role-based access |
 
 ---
 
